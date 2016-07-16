@@ -9,5 +9,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-plusplus",
-  "hubot-xkcd"
+  "hubot-xkcd",
+  "hubot-stocks"
 ]

@@ -20,7 +20,8 @@
     "hubot-plusplus": "1.2.6",
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0",
-    "hubot-xkcd": "0.0.3"
+    "hubot-xkcd": "0.0.3",
+    "hubot-stocks": "0.0.1"
   },
   "engines": {
     "node": "0.10.x"
