@@ -1,13 +1,9 @@
 # snarkybot
 
-snarkybot is a chat bot built on the [Hubot][hubot] framework intended to be 
-used on snarky.slack.com.
+snarkybot is a chat bot built on the [Hubot][hubot] framework customized
+for the snarky chat group's slack channel.
 
-### Running snarkybot Locally
-
-TODO
-
-### Configuration
+### Configuring and running snarkybot
 
 TODO
 

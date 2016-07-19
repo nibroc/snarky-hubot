@@ -3,12 +3,13 @@
   "hubot-help",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
   "hubot-plusplus",
   "hubot-xkcd",
-  "hubot-stocks"
+  "hubot-stocks",
+  "hubot-barkeep",
+  "hubot-yelp"
 ]
