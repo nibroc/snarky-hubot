@@ -11,5 +11,6 @@
   "hubot-xkcd",
   "hubot-stocks",
   "hubot-barkeep",
-  "hubot-yelp"
+  "hubot-yelp",
+  "hubot-keepalive"
 ]
